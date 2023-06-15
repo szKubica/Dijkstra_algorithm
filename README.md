@@ -1,3 +1,5 @@
+# !!! Kod programu na gałęzi master !!! 
+
 ## Uruchomienie
 
 Windows:
